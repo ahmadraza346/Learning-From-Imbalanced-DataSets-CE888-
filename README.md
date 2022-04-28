@@ -1,12 +1,12 @@
 # Learning-From-Imbalanced-DataSets-CE888-
 There are total 4 folders:
-1. Dataset
+1. Datasets
 2. Data pre processing
 3. Deployment code
 4. Reports
 
 
-'DataSet' Folder contains three datasets.
+'DataSets' Folder contains three datasets.
 1. Mushroom dataset can be downloaded from:
 https://www.kaggle.com/uditg6/smelly-mushrooms-bad-adaboost-100/data
 2. Gender Dataset can be downloaded from:
